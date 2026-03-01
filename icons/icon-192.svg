@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Troškovnik icon">
+  <rect width="512" height="512" rx="96" fill="#1f6feb" />
+  <path d="M128 144h256v224H128z" fill="#fff" opacity="0.95" rx="18" />
+  <path d="M170 210h172M170 258h172M170 306h108" stroke="#1f6feb" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="342" cy="312" r="52" fill="#188038" />
+  <path d="M342 282v60M312 312h60" stroke="#fff" stroke-width="16" stroke-linecap="round"/>
+</svg>
